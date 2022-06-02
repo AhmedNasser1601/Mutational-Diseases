@@ -122,7 +122,7 @@
   - Color blindness has a huge impact on health, emotions, and, most importantly, vocations. In future clinical investigations, the method created here could be used to track changes in CBQoL in response to therapy in situations where colour vision is impaired. We also explain how to decrease common colour vision problems in the workplace, such as avoiding colour coding where a non-color alternative is available.
   ![009](https://user-images.githubusercontent.com/60184582/171434687-0bb9b878-493e-4271-ad7a-929053809156.png)
 
-  - There are three types of colour vision problems. The most prevalent colour vision abnormalities are *red-green*. This kind is more common in men than in women. Blue-yellow colour vision abnormalities and a complete lack of colour. 
+  - There are three types of colour vision problems. The most prevalent colour vision abnormalities are *red-green*. This kind is more common in men than in women. Blue-yellow colour vision abnormalities and a complete lack of colour.
   ![010](https://user-images.githubusercontent.com/60184582/171434767-8c1d7034-5865-407c-89ac-1ef8d10ec7bd.png)
 
 
