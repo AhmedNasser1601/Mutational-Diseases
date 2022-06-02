@@ -184,4 +184,4 @@
 ------
 
 
-[![HitCount](https://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases.svg?style=flat-square)](http://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases)
+[![HitCount](https://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases.svg?style=flat-square&show=unique)](http://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases)
