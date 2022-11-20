@@ -6,6 +6,8 @@
 | :-: | :-: |
 |Department:|**Bioinformatics - FCIS, ASU**|
 |Course:|**3rd year - Structural Bioinformatics - BIO332**|
+
+[![HitCount](https://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases.svg?style=flat-square)](http://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases)
 ---
 
 - **Abstract**
@@ -182,6 +184,3 @@
   1. Get Screened for Colorectal Cancer (2019). Available at: <https://www.inovanewsroom.org/ifh/2019/06/get-screened-for-colorectal-cancer/> (Accessed: 9 April 2022).
   1. Everything About Colorectal Cancer In India | Gem Hospitals | Gem Hospital (2022). Available at: <https://www.gemhospitals.com/2019/05/24/all-you-need-to-know-about-colorectal-cancer-in-india/> (Accessed: 9 April 2022).
 ------
-
-
-[![HitCount](https://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases.svg?style=flat-square)](http://hits.dwyl.com/AhmedNasser1601/Mutational-Diseases)
